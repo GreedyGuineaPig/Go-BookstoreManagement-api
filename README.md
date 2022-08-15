@@ -1,6 +1,7 @@
 # Go-BookstoreManagement-api
 
 ## Description
+It manages book information on golang and store it into mysql container. I believe it works well but I'm still seeking a way to run two containers via docker compose on vscode. 
 
 ## Functions
 - book/ GET - gives all books
